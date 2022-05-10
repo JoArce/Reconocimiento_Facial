@@ -1,5 +1,4 @@
 from cv2 import cv2 as cv, waitKey
-import numpy as np
 from cv2 import COLOR_BGR2GRAY
 import os
 
